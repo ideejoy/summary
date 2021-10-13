@@ -1,0 +1,125 @@
+body{
+    margin:0 auto;
+    padding: 0;
+    background-color: #DFE8FF;
+}
+#bodycon{
+    height: 600px;
+    width: 347px;
+    background-color:#FFFFFF;
+    border-radius: 40px;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+#headercontainer{
+   height: 200px;
+   width: 347px;
+}
+.img1{
+    border-top-right-radius:40px;
+    border-top-left-radius:40px;
+    height: 200px;
+    width: 347px;
+}
+.h1{
+    position: relative;
+    text-align: center;
+    font-family: 'Red Hat Display';
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.p1{
+    text-align: center;
+    font-family: 'Red Hat Display';
+    font-size: 14px;
+    color: #9396BC;
+    font-weight: lighter;
+}
+.pay{
+    width: 330px;
+    height: 80px;
+    margin-left: 10px;
+    background-color:#F8F9FE;
+    border-radius: 15px;
+}
+.img2{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    top: 10px;
+    left: 8px;
+    bottom: 5px;
+    right: 5px;
+}
+.dimg2{
+    width: 40px;
+    height: 40px;
+    background-color: #DFE8FF;
+    border-radius: 180px;
+    position: relative;
+    top: 15px;
+    left:15px;
+    float:left;
+}
+.dp2{
+    position: absolute;
+    width:120px;
+    height: 80px;
+    margin-left: 70px;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    
+    
+   
+    
+}
+.p2{
+    font-family:'Red Hat Display' ;
+    position: relative;
+    top:1px; 
+    font-size: 17px;
+    right: 3px;
+}
+.p25{
+    position: relative;
+    bottom:14px;
+    font-size: 16px;
+    right:5px;
+    font-family:'Red Hat Display';
+    font-weight: 400;
+    color: #DBDAF5;
+}
+.dp3{
+    width: 60px;
+    height: 20px;
+    margin-left: 50px;
+    position: relative;
+    font-family:'Red Hat Display';
+    font-size: 16px;
+    text-transform: capitalize;
+    top:30px;
+    bottom: 40px;
+    left: 190px ;
+}
+.dpay{
+    width: 310px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #382AE1;
+    position: relative;
+    left:15px;
+    color:#CAC9FF ;
+    font-family:'Red Hat Display';
+    font-size: 16px;
+    
+}
+.dpay2{
+    margin: 10px 120px 0 120px;
+    font-style: normal;
+    font-weight: 900;
+    text-transform: capitalize;
+    font-family: 'Red Hat Display';
+    font-size: 14px;
+    color: #71799D;
+}
